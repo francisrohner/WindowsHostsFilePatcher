@@ -1,0 +1,19 @@
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\bin\Debug\WindowsHostsFilePatcher.exe.config
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\bin\Debug\WindowsHostsFilePatcher.exe
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\bin\Debug\WindowsHostsFilePatcher.pdb
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.csprojResolveAssemblyReference.cache
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.PatcherForm.resources
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.Properties.Resources.resources
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.csproj.GenerateResource.Cache
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.exe
+C:\Users\Francis\AppData\Local\Temporary Projects\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.pdb
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\bin\Debug\WindowsHostsFilePatcher.exe.config
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\bin\Debug\WindowsHostsFilePatcher.exe
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\bin\Debug\WindowsHostsFilePatcher.pdb
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.csprojResolveAssemblyReference.cache
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.HostsAdder.resources
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.PatcherForm.resources
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.Properties.Resources.resources
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.csproj.GenerateResource.Cache
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.exe
+C:\Users\Francis\Documents\Visual Studio 2013\Projects\WindowsHostsFilePatcher\WindowsHostsFilePatcher\obj\Debug\WindowsHostsFilePatcher.pdb
